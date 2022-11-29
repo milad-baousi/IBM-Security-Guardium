@@ -1,33 +1,5 @@
 **statuproject**
 
-```
-colector : 192.168.73.161
-user : cli
-pass : 5tgb^YHN
-webconsole : https://192.168.73.161:8443/
-user : admin
-pass : Milad@123
-
-
-CM: 192.168.73.160
-user : cli
-pass :5tgb^YHN
-webconsole : https://192.168.73.160:8443/
-user : admin
-pass : Milad@123
-
-
-DB : 192.168.73.162
-user : root
-pass : 123
-EDWD@M140004 
-
-DNS Server : 192.168.18.16
-
-Gatewar : 192.168.73.1
-Mask : 255.255.254.0
-```
-
 #### **Set network on guardium**
 
 1. ```
